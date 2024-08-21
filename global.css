@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-montserrat: Montserrat;
+    --font-new-amsterdam: "New+Amsterdam";
+  
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --font-size-lgi: 19px;
+    --font-size-sm: 14px;
+    --font-size-xl: 20px;
+    --font-size-base: 16px;
+    --font-size-xs: 12px;
+    --font-size-13xl: 32px;
+    --font-size-7xl: 26px;
+    --font-size-17xl: 36px;
+  
+    /* Colors */
+    --color-gray-100: #fefefe;
+    --color-gray-200: #fdfdfd;
+    --color-gray-300: #818085;
+    --color-gray-400: #777;
+    --color-gray-500: #232325;
+    --color-gray-600: #1e1e1e;
+    --color-gray-700: #1b1b1d;
+    --color-gray-800: #0f0f11;
+    --color-whitesmoke-100: #efefef;
+    --color-white: #fff;
+    --color-lightsteelblue-100: #bad4eb;
+    --color-lightsteelblue-200: #aecadf;
+    --color-darkslategray: #39393a;
+    --color-gainsboro: #e5e5e5;
+    --color-lightblue: #bbd7ec;
+    --color-dimgray: #4f5658;
+  
+    /* Gaps */
+    --gap-2xl: 21px;
+    --gap-20xl: 39px;
+    --gap-lgi: 19px;
+    --gap-xl: 20px;
+    --gap-3xs: 10px;
+    --gap-8xs: 5px;
+    --gap-9xs: 4px;
+    --gap-2xs: 11px;
+    --gap-11xl-5: 30.5px;
+    --gap-smi: 13px;
+    --gap-29xl: 48px;
+    --gap-5xl: 24px;
+    --gap-40xl: 80px;
+  
+    /* Paddings */
+    --padding-11xl: 30px;
+    --padding-5xl: 24px;
+    --padding-3xl: 22px;
+    --padding-11xs: 2px;
+    --padding-xl: 20px;
+    --padding-9xs: 4px;
+    --padding-base: 16px;
+    --padding-sm: 14px;
+    --padding-10xs: 3px;
+    --padding-13xl: 32px;
+    --padding-smi: 13px;
+    --padding-mini: 15px;
+    --padding-2xs: 11px;
+    --padding-7xl: 26px;
+    --padding-3xs: 10px;
+    --padding-lg: 18px;
+    --padding-5xs: 8px;
+    --padding-12xs: 1px;
+    --padding-10xl: 29px;
+    --padding-4xl: 23px;
+    --padding-8xl: 27px;
+    --padding-4xs: 9px;
+  
+    /* Border radiuses */
+    --br-mini: 15px;
+    --br-8xs: 5px;
+    --br-11xl: 30px;
+    --br-3xs: 10px;
+    --br-6xl: 25px;
+  }
+  
